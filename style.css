@@ -524,8 +524,7 @@ p .li {
 }
 
 #text03 {
-	color: #FFFFFF;
-	font-family: 'Alegreya', serif;
+	
 	font-size: 2.75em;
 	line-height: 1.25;
 	font-weight: 400;
@@ -536,8 +535,7 @@ p .li {
 }
 
 #text04 {
-	color: #FFFFFF;
-	font-family: 'Source Code Pro', monospace;
+
 	font-size: 1.5em;
 	line-height: 1.75;
 	font-weight: 400;
@@ -548,8 +546,6 @@ p .li {
 }
 
 #text05 {
-	color: #FFFFFF;
-	font-family: 'Source Code Pro', monospace;
 	font-size: 1.5em;
 	line-height: 1.375;
 	font-weight: 400;
@@ -742,10 +738,6 @@ p .li {
 	min-width: 1rem;
 }
 
-.timer.style1 ul li.delimiter .symbol {
-	color: #FFFFFF;
-}
-
 .timer.style1 ul li.number .item .digit {
 
 	line-height: 1em;
@@ -757,7 +749,7 @@ p .li {
 }
 
 .timer.style1 ul li.number .item .label {
-	font-family: 'Source Code Pro', monospace;
+
 	font-size: 1rem;
 	font-weight: 400;
 	text-transform: lowercase;
@@ -804,8 +796,8 @@ p .li {
 	line-height: 3.125rem;
 	vertical-align: middle;
 	padding: 0 1.5625rem;
-	font-size: 1em;
-	font-family: 'Source Code Pro', monospace;
+
+
 	font-weight: 400;
 	border-radius: 0rem;
 }
@@ -830,7 +822,6 @@ p .li {
 	vertical-align: middle;
 	padding: 0 1.25rem;
 	font-size: 0.875em;
-	font-family: 'Source Code Pro', monospace;
 	font-weight: 400;
 	border-radius: 0rem;
 }
@@ -839,12 +830,6 @@ p .li {
 	
 	border: solid 1px ;
 }
-
-#buttons01 .button:hover {
-	color: #FF828A !important;
-	border-color: #FF828A !important;
-}
-
 #buttons04 {
 	width: calc(100% + 1.5rem);
 	margin-left: -0.75rem;
@@ -976,14 +961,6 @@ p .li {
 #icons01 li a svg {
 	width: 100%;
 	height: 100%;
-}
-
-#icons01 a svg {
-	fill: #FFFFFF;
-}
-
-#icons01 a:hover svg {
-	fill: #FF828A !important;
 }
 
 @media (max-width: 1680px) {
