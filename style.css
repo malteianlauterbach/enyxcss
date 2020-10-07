@@ -101,9 +101,6 @@ a {
 	text-decoration: underline;
 }
 
-s {
-	text-decoration: line-through;
-}
 
 body:before {
 	content: '';
